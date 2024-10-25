@@ -1,7 +1,7 @@
 
-# CV Final Project for CS231
+# CV Final Project for CS231 - Introduction to computer vision
 
-A project about detect age and gender on UTKFace dataset
+A project about detect age and gender on UTKFace dataset 
 
 
 ## Authors
